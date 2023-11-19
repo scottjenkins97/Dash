@@ -1,0 +1,8 @@
+numpy
+pandas
+black
+ruff
+plotly
+plotly-express
+dash
+ipykernel
